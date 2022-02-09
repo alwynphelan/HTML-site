@@ -12,13 +12,14 @@
     }
     
     img {
-        max-width: 150px;
+        max-width: 300px;
     }
     
     h1 {
         font-family: comic sans ms;
         border-bottom: 1px solid rgb(100, 20, 30);
         font-size: 50px;
+        color:blueviolet;
     }
     
     h1:hover {
@@ -30,14 +31,40 @@
         padding: 2%;
     }
 
+    .sections2 {
+        position:absolute;
+        font-size: 20px;
+        padding: 2%;
+        left: 50px;
+        bottom: 1000px;
+    }
     .wiki {
         font-size: 30px;
     }
 
     h3 {
         font-size: 50px;
+        color:blueviolet;
     }
 
-    .NewOld {
+    .Game-Desc {
+        font-size: 20px;
+    }
+
+    .origin {
+        font-size: 15px;
+    }
+
+    h4 {
         font-size: 25px;
+        color:blueviolet;
+    }
+
+    h5 {
+        font-size: 25px;
+        color:blueviolet;
+    }
+
+    .source{
+       font-size: 35px;
     }
